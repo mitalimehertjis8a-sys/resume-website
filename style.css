@@ -74,3 +74,10 @@ section {
 section, section p, section ul, section li, section table {
     text-align: left !important;
 }
+section p {
+    line-height: 1.6;
+}
+nav a:hover {
+    color: #4a90e2;
+}
+
